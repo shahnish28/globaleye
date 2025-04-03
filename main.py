@@ -1,6 +1,5 @@
-def main():
-    print("Hello from gei-scraper!")
+from scraper.config import Config
 
+config = Config()
 
-if __name__ == "__main__":
-    main()
+print(config.MONGODB_URI)
