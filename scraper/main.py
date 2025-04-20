@@ -1,15 +1,9 @@
-
 from scraper.config import Config
-
-config = Config()
-
-print(config.MONGODB_URI)
-
-# main.py (root)
 from discord.main import main as module1_main
 from telegram_scraper.main import main as module2_main
 from website_scraper.main import main as module3_main
 
+# main.py (root)
 def main():
     print("=== Starting All Modules ===\n")
 
@@ -27,3 +21,7 @@ def main():
 if __name__ == "__main__":
     main()
 
+
+config = Config()
+
+print(config.MONGODB_URI)
