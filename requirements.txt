@@ -1,0 +1,7 @@
+discum
+requests
+feedparser
+beautifulsoup4
+pandas
+psycopg2
+telethon

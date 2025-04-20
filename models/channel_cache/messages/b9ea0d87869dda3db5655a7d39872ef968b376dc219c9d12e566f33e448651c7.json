@@ -1,0 +1,52 @@
+[
+    {
+        "type": 0,
+        "content": "**NEW VERSION CONSOLE COMMANDS **\n\nadd_money [NUMBER]\nannex_country [COUNTRY NAME\\ISO]\nannex_province[PROVINCE NAME] [COUNTRY NAME]\nannex_random_province\nannex_random_country\nignore_aerial_ranges\ninfinite_logistics\nworld_intel\npass_laws\nfinish_constructions\nwar [COUNTRY NAME] [COUNTRY NAME]",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-02T15:50:41.787000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345785395568185436",
+        "channel_id": "1189390693567823892",
+        "author": {
+            "id": "712473098540023809",
+            "username": "lotous21",
+            "avatar": "fecf8238e8858227e9124242d65bd5cd",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "lotous21",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2764\ufe0f"
+                },
+                "count": 2,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 2
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    }
+]

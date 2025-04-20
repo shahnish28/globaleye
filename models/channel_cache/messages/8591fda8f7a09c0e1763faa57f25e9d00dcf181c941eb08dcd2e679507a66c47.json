@@ -1,0 +1,132 @@
+[
+    {
+        "type": 0,
+        "content": "**Will the game feature microtransactions or DLC's?**\nThe game will not include any microtransactions, but we have the following DLC's planned that require a normal purchase to gain life-time access:\n- WW2 DLC\n- Cold-war era DLC\n- Sci-Fi DLC (alien invasion and space colonization)\nNOTE: All the updates or patches related to the game or DLC's will of course will be free.\n\n**Will there be a port for consoles?**\nNo, we find it very hard to believe that anyone will play this game on a console.\n\n**Will the game be ported to Linux and Mac?**\nYes!\n\n**What is the main gameplay goal of World Warfare & Economics?**\n It depends on the scenario you choose to play, for example:\n- In the pandemic scenario, the main goal will be to stop the pandemic in your country. \n- You can also play in the main scenario where everything will be simulated as close as possible to reality.\n- Players will also be able to create their own scenarios and mods through the in-game modding tool and through Steam Workshop.\n\n**Does the game have an end?**\nThe game is designed to be never-ending, although there are scenarios with final objectives, reaching them ends the scenario.\n\n**What kind of development support can I expect for World Warfare & Economics?**\nYou can report bugs on our website, which will be answered in up to two business days. Our team is going to help you out the best they can, and if we can't do it immediately, we will fix your problem on our end and upload a patch as soon as possible. Additionally, you can report a bug on our Discord server by making a support ticket in the <#1052181966079934524> channel, and we will get back to you as soon as we can! All Feature ideas that have been sent here on our Discord server have been uploaded to an Excel sheet and will be carefully reviewed. Before Beta's release, we will share this file with the community so users can track if their ideas have been implemented, or will be implemented or were rejected (with a reason).",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2023-06-28T20:33:42.144000+00:00",
+        "edited_timestamp": "2024-11-10T02:30:18.135000+00:00",
+        "flags": 0,
+        "components": [],
+        "id": "1123712854734934168",
+        "channel_id": "1080508539690287145",
+        "author": {
+            "id": "192353951994216449",
+            "username": "amn92",
+            "avatar": "d274a326303d1f457a43415ecaf13bc8",
+            "discriminator": "0",
+            "public_flags": 4195072,
+            "flags": 4195072,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "AMN",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false
+    },
+    {
+        "type": 0,
+        "content": "**Who is behind World Warfare & Economics?**\nThe game has been fully designed and built by one developer - <@712473098540023809>. After four years of sole development, he founded Okron Studio with the help of two generous investors!\n\n**What was the inspiration for World Warfare & Economics?**\n- The lack of modern-era grand strategy games.\n- The lack of economic depth in strategy game.\n- Building a game with the help of the community's constant feedback - we need as much help as we can get.\n- Build the best Geopolitical/Grand Strategy game out there!\n\n**Is World Warfare & Economics comparable to other games? Which ones and how?**\n- Hearts of Iron, both games focus on geopolitical worlds with Steam workshop and modding support, diplomacy will be very similar.\n- Power & Revolution, both games offer in-depth economic management but World Warfare & Economics will go into much greater detail regarding it's military, space, and intelligence systems and more.\n\n**What engine is World Warfare & Economics built on?**\nUnity.\n\n**Is World Warfare & Economics Streamer friendly? (Copyrighted music, etc)**\nYes, all the content in the game is copyrighted by Okron Studio (soundtracks, SFXs, models etc).\n\n**Is there a good way to contact the Developers?**\nHere on the Discord server you can either contact them through<#896716443880656939>, through DM's or in the \u2060<#1052181966079934524> channel.\n\n**Links to the different World Warfare & Economics social media?**\n<:steam:904930772597739530>Steam: https://store.steampowered.com/app/1700300/World_Warfare__Economics/\n<:yt:900454809835012147>YouTube #1: https://www.youtube.com/c/WorldWarfareEconomic\n<:yt:900454809835012147>YouTube #2: https://www.youtube.com/channel/UC8DOtp9B3vzTiyczJ1l15aw\n<:wwe:900452128525525023>Website 1: https://www.worldwarfare-economics.com/\n<:Okron:1123969350047629322>Website 2: https://www.okronstudio.com/\n<:reddit:900455111233503293>Reddit: https://www.reddit.com/r/WorldWarfareEconomic/\n<:fb:900455111338369106>Facebook 1: https://www.facebook.com/WorldWarfareEconomic/\n<:fb:900455111338369106>Facebook 2: https://www.facebook.com/okronstudio\n<:X_:1178558187130081414>X: https://twitter.com/WorldWarfareEco\n<:instagram:1075500239680716882>Instagram: worldwarfare_economics\n<:tiktok:1075499988278317066>TikTok: @worldwarfareandeconomics\n\n**Who do I contact if I have a bug or game issue?**\nYou can report a bug on our website, you can contact the Developers through DM's on Discord, or use the https://discord.com/channels/896716443880656936/1188177657419022367 forum and we will get back to you!\n\n**What are the minimum and recommended system requirements?**\n**Windows:**\nMINIMUM:\nOS: Windows 7 (SP1+) and Windows 10\nProcessor: x86, x64 architecture with SSE2 instruction set support.\nMemory: 4 GB RAM\nGraphics: DX10, DX11, DX12 capable.\nDirectX: Version 10\nStorage: 8 GB available space\n\nRECOMMENDED:\nOS: Windows 7 (SP1+) and Windows 10\nProcessor: 2 GHz, multi-core processor\nMemory: 8 GB RAM\nGraphics: 3D Video card with 512 MB or more\nDirectX: Version 11\nStorage: 8 GB available space\n\n**MacOS:**\nMINIMUM:\nOS: High Sierra 10.13+\nProcessor: x64 architecture with SSE2.\nMemory: 4 GB RAM\nGraphics: Metal-capable Intel and AMD GPUs\nStorage: 8 GB available space\n\n**Linux:**\nMINIMUM:\nOS: Ubuntu 20.04, Ubuntu 18.04, and CentOS 7\nProcessor: x64 architecture with SSE2 instruction set support.\nMemory: 4 GB RAM\nGraphics: OpenGL 3.2+, Vulkan capable.\nStorage: 8 GB available space\n\n-------",
+        "mentions": [
+            {
+                "id": "712473098540023809",
+                "username": "lotous21",
+                "avatar": "fecf8238e8858227e9124242d65bd5cd",
+                "discriminator": "0",
+                "public_flags": 0,
+                "flags": 0,
+                "banner": null,
+                "accent_color": null,
+                "global_name": "lotous21",
+                "avatar_decoration_data": null,
+                "banner_color": null,
+                "clan": null,
+                "primary_guild": null
+            }
+        ],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2023-06-28T20:33:20.738000+00:00",
+        "edited_timestamp": "2024-11-10T02:50:14.996000+00:00",
+        "flags": 4,
+        "components": [],
+        "id": "1123712764951658536",
+        "channel_id": "1080508539690287145",
+        "author": {
+            "id": "192353951994216449",
+            "username": "amn92",
+            "avatar": "d274a326303d1f457a43415ecaf13bc8",
+            "discriminator": "0",
+            "public_flags": 4195072,
+            "flags": 4195072,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "AMN",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false
+    },
+    {
+        "type": 0,
+        "content": "**What is the price of the game?**\n$30 and will never change, regional pricing included!\n\n**How does currencies work?**\nCurrencies are represented by strength value and not by real value.\n\n**Will there be space program mechanisms in the game?**\nThere will be 5 galaxies and 66 planets available to accomplish a variety of different missions on each planet. Are we alone?\n\n**Are events a part of the game?**\nTo support infinite gameplay, events will occur regularly, such as space races and a lot more! (example: every 100 years different space races will occur on different planets, such as Mars - 2030, Jupiter - 2150, etc).\n\n**What types of sport events are in the game?**\nFIFA World Cup, EURO Cup, Copa Am\u00e9rica, and many more!\n\n**What types of culture events are there in the game?**\nThe Oscars, The Grammys, and many more!\n\n**What languages will be available in the game?**\nEnglish, French, German, Spanish, Hebrew, Russian, Chinese (Simplified), Arabic, Italian, Japanese, Polish and Turkish.\n\n**How does the political system work?**\nThe player will get the option to play with or without political simulation. Each country will have different political parties, and each party will have it's own ideologies and concerns.\n\n**Are there any religions in the game?**\nYes, governments will be able to subsidize religions and increase/decrease their power within the country.\n\n**How does the United Nations function?**\nThe United Nations and it's Security Council will govern the world on an international level. Tackling threats, imposing or lifting sanctions, stopping or approving military intervention and all major international decisions will be set by the United Nations!\n\n**How can I improve my relations with other countries?**\nYou have multiple options on how you can interact with a country such as asking for or giving economic aid, signing agreements and alliances, investing in other countries (specific sectors), supporting, condemning or flat-out show outrage against their actions across the world or domestically, sharing top classified intelligence information, private loans, and more!\n\n**Are we able to form new nations or buy regions from other countries?**\nYes, you can offer any ally country an annexation deal for the entire country or specific regions.\n\n**Can I play as a character in the game?**\nNo, you will be able to control a political party or simply a country if you don't wish to play with a political system, that will be optional.\n\n**Can I use cheats in World Warfare & Economics?**\nYes, you can use console commands, so you can change just about everything with it! The goal is to have 247 console commands when the game is fully finished.\n\n**Will there be multiplayer in World Warfare & Economics?**\nYes, you will be able to play multiplayer in the future! Multiplayer mode will be both co-op and competitive (players will be able to choose which mode they prefer).\n\n**What is World Warfare & Economics?**\nWorld Warfare & Economics is a Geopolitical/Grand-Strategy game aiming to combine countries economic management and real-time battles, while also taking into consideration political actions (change laws, participate in elections and more).\n\n-------",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2023-06-28T20:33:05.158000+00:00",
+        "edited_timestamp": "2024-11-10T03:07:20.561000+00:00",
+        "flags": 0,
+        "components": [],
+        "id": "1123712699604406402",
+        "channel_id": "1080508539690287145",
+        "author": {
+            "id": "192353951994216449",
+            "username": "amn92",
+            "avatar": "d274a326303d1f457a43415ecaf13bc8",
+            "discriminator": "0",
+            "public_flags": 4195072,
+            "flags": 4195072,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "AMN",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddee\ud83c\uddf9"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    }
+]

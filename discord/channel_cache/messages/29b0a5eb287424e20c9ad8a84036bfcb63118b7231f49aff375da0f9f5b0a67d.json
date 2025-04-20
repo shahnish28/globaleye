@@ -1,0 +1,4697 @@
+[
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1642934579731349528)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1642934579731349528",
+                "description": "Will events be part of the game?\n\n#WorldWarfareEconomics #IndieGame #FAQ #Gaming",
+                "color": 1942002,
+                "timestamp": "2023-04-03T16:58:22+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/media/FszgMisWcAAZVdG.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/YM6RjR1SEQpzGhCwNwvVYYgdY5OOxnuDg9PQ8Zk1BLQ/https/pbs.twimg.com/media/FszgMisWcAAZVdG.jpg",
+                    "width": 1200,
+                    "height": 675,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com | \ud83d\udcf71",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/BMDD0dE0o41Zl6pq8O7A1bxKybfA_14VztOFDj2Ml5w/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2023-04-03T17:00:11.356000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1092493765953982546",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddf5\ud83c\uddf9"
+                },
+                "count": 9,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 9
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": "1058615207259287554",
+                    "name": "salute"
+                },
+                "count": 3,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 3
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\udde6\ud83c\uddf1"
+                },
+                "count": 4,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 4
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddf7\ud83c\uddfa"
+                },
+                "count": 3,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 3
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1641504996326866944)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1641504996326866944",
+                "description": "Learn more about the intelligence systems in #WorldWarfareEconomics and check out our latest Dev Diary.\n\nDev Diary #5 is available for you to read right now, so head on over to \ud83d\udd17http://bit.ly/3M4ia2r to find out more. \n\n#DevDiary #IndieGame #IndieDev https://twitter.com/i/web/status/1641504996326866944",
+                "color": 1942002,
+                "timestamp": "2023-03-30T18:17:43+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/media/FsfL_I8WYBEk6B_.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/oFBP3Q-MjPYuDUYLC0sxR0e-hG0jV4RutVHG3tyMf4g/https/pbs.twimg.com/media/FsfL_I8WYBEk6B_.jpg",
+                    "width": 1200,
+                    "height": 675,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com | \ud83d\udcf71",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/BMDD0dE0o41Zl6pq8O7A1bxKybfA_14VztOFDj2Ml5w/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2023-03-30T18:18:41.356000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1091063969663434872",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": "1058615207259287554",
+                    "name": "salute"
+                },
+                "count": 2,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 2
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\udde6\ud83c\uddf1"
+                },
+                "count": 3,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 3
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1641500547491454980)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1641500547491454980",
+                "description": "Learn more about the intelligence systems in #WorldWarfareEconomics and check out our latest Dev Diary.\n\nDev Diary #5 is available for you to read right now, so head on over to  (link) to find out more. \n\n#DevDiary #IndieGame #IndieDev",
+                "color": 1942002,
+                "timestamp": "2023-03-30T18:00:02+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/media/Fsej-sBagAApOiE.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/8eHCWUsC_wtGfyp4p87lx8cOWkxaZ-ij5FN3GWmwD7g/https/pbs.twimg.com/media/Fsej-sBagAApOiE.jpg",
+                    "width": 1200,
+                    "height": 675,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com | \ud83d\udcf71",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/BMDD0dE0o41Zl6pq8O7A1bxKybfA_14VztOFDj2Ml5w/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2023-03-30T18:00:30.244000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1091059393208000652",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918"
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1640398276083040269)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1640398276083040269",
+                "description": "Declare war on other nations and manage your troops and resources effectively to come out on top. \n\n#WorldWarfareEconomics #IndieGame #GameDev #Gaming #RTS #MondayMotivation",
+                "color": 1942002,
+                "timestamp": "2023-03-27T17:00:00+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/ext_tw_video_thumb/1634271929254268937/pu/img/9DWeGAXNR0tIGX1t.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/pjfrnKS-VzsNZtQfDT-TudYnKE8ywt6sep0Nw0yrE0A/https/pbs.twimg.com/ext_tw_video_thumb/1634271929254268937/pu/img/9DWeGAXNR0tIGX1t.jpg",
+                    "width": 600,
+                    "height": 340,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com | \ud83c\udfac1",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/BMDD0dE0o41Zl6pq8O7A1bxKybfA_14VztOFDj2Ml5w/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2023-03-27T17:01:30.800000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1089957384107081760",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2764\ufe0f"
+                },
+                "count": 15,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 15
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1639688599573610497)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1639688599573610497",
+                "description": "Make sure to stay on top of researching your technology. \n\nFalling behind could be the slow decline to defeat! \ud83d\ude16\n\n#WorldWarfareEconomics #ScreenshotSaturday #Games #Gaming #IndieGames #RTS",
+                "color": 1942002,
+                "timestamp": "2023-03-25T18:00:00+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/ext_tw_video_thumb/1634271587447853061/pu/img/zl0JxFSJrd1TPKZh.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/mVTJsDHN68hU7QQI5urRpRESA4rDDX8ZEAX39nWnrU8/https/pbs.twimg.com/ext_tw_video_thumb/1634271587447853061/pu/img/zl0JxFSJrd1TPKZh.jpg",
+                    "width": 600,
+                    "height": 340,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com | \ud83c\udfac1",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/BMDD0dE0o41Zl6pq8O7A1bxKybfA_14VztOFDj2Ml5w/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2023-03-25T18:01:39.447000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1089247744138416218",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2764\ufe0f"
+                },
+                "count": 9,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 9
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1638964828923662336)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1638964828923662336",
+                "description": "Don\u2019t forget to join our scenarios #competion over in out #Discord!!\n\nGet your very own scenario in the game! You know you don\u2019t want to miss this. \n\n\ud83d\udd17https://discord.com/invite/XyX6kFdxRN\n\n#WorldWarfareEconomics #IndieGames #Contest #Winning #RTS #Strategy",
+                "color": 1942002,
+                "timestamp": "2023-03-23T18:04:00+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/media/Fq4S2iDWIAQVFBP.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/s4Xs58bbR-FcdvkIhE17F9d45VxyI0m6Nfv8sDkeizU/https/pbs.twimg.com/media/Fq4S2iDWIAQVFBP.jpg",
+                    "width": 1080,
+                    "height": 1080,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com | \ud83d\udcf71",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/BMDD0dE0o41Zl6pq8O7A1bxKybfA_14VztOFDj2Ml5w/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2023-03-23T18:05:03.376000+00:00",
+        "edited_timestamp": null,
+        "flags": 1024,
+        "components": [],
+        "id": "1088523823747444787",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2764\ufe0f"
+                },
+                "count": 5,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 5
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1638600930349260801)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1638600930349260801",
+                "description": "Show your strength as a leader and Wishlist World Warfare and Economics on #Steam\n\n\ud83d\udd17https://s.team/a/1700300\n\n#WorldWarfareEconomics #IndieGame #WishlistWednesday #IndieDev #Strategy #RTS",
+                "color": 1942002,
+                "timestamp": "2023-03-22T17:58:00+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/media/Fq4Se6-WICIV_ZV.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/fhSDyuKdhNbloNFJNRB5jGBNNcyCvsI_-F01MzN_g28/https/pbs.twimg.com/media/Fq4Se6-WICIV_ZV.jpg",
+                    "width": 1080,
+                    "height": 1080,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com | \ud83d\udcf71",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/BMDD0dE0o41Zl6pq8O7A1bxKybfA_14VztOFDj2Ml5w/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2023-03-22T17:58:04.059000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1088159677138866248",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2764\ufe0f"
+                },
+                "count": 8,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 8
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1637917039611322375)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1637917039611322375",
+                "description": "This is World Warfare & Economics!\n\nBecome the leader of your country and lead them to glory!\n\nComing soon to #Steam \ud83d\udd17  https://s.team/a/1700300\n\n#WorldWarfareEconomics #IndieGame #VideoGames",
+                "color": 1942002,
+                "timestamp": "2023-03-20T20:40:27+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/ext_tw_video_thumb/1637916698014625792/pu/img/6MOK_osabv88wLzg.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/K1LtXf8_o_k2ShGaNAsLkcjcu6q-rP957uNKzSto_20/https/pbs.twimg.com/ext_tw_video_thumb/1637916698014625792/pu/img/6MOK_osabv88wLzg.jpg",
+                    "width": 1200,
+                    "height": 675,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com | \ud83c\udfac1",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/BMDD0dE0o41Zl6pq8O7A1bxKybfA_14VztOFDj2Ml5w/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2023-03-20T20:40:36.666000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1087475806806233200",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": "901098975124398091",
+                    "name": "war"
+                },
+                "count": 2,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 2
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": "1058615089822961766",
+                    "name": "happy"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2764\ufe0f"
+                },
+                "count": 2,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 2
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1637875399521865729)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1637875399521865729",
+                "description": "Keep track of and choose if you want your country to participate in major global events. \ud83c\udf0d\n\n#WorldWarfareEconomics #IndieGames #IndieGameDev #Gamer #RTS #MondayMotivation",
+                "color": 1942002,
+                "timestamp": "2023-03-20T17:55:00+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/ext_tw_video_thumb/1634270120620044288/pu/img/qVPI9ZvEgrlBEpsz.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/c3pUpDLfz-5ETUfU3OufwmvHr_VYDbSUwbIt--HU1VA/https/pbs.twimg.com/ext_tw_video_thumb/1634270120620044288/pu/img/qVPI9ZvEgrlBEpsz.jpg",
+                    "width": 600,
+                    "height": 340,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com | \ud83c\udfac1",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/BMDD0dE0o41Zl6pq8O7A1bxKybfA_14VztOFDj2Ml5w/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2023-03-20T17:55:55.671000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1087434362909380701",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83d\udc4d"
+                },
+                "count": 9,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 9
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2764\ufe0f"
+                },
+                "count": 5,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 5
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1637154399217672192)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1637154399217672192",
+                "description": "Resources and fuel such as oil are incredibly important to your country, and ultimately your victory! \ud83d\udc4a\n\n#WorldWarfareEconomics #IndieGame #GameDev #Gaming #Strategy #ScreenshotSaturday",
+                "color": 1942002,
+                "timestamp": "2023-03-18T18:10:00+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/media/Fq4UUpEX0BgXLuF.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/hhCPIfOMjDwYBth4btzowcWxYmf4JTeF-cOcxYrhF0I/https/pbs.twimg.com/media/Fq4UUpEX0BgXLuF.jpg",
+                    "width": 1200,
+                    "height": 675,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com | \ud83d\udcf71",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/BMDD0dE0o41Zl6pq8O7A1bxKybfA_14VztOFDj2Ml5w/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2023-03-18T18:10:13.030000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1086713183202451618",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2764\ufe0f"
+                },
+                "count": 8,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 8
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1636065977216688129)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1636065977216688129",
+                "description": "Join the conversation and head over to our #Discord.\n\nTell us more about your country, find fellow leaders or just join in the fun with our xp games. \n\n\ud83d\udd17https://discord.com/invite/XyX6kFdxRN\n\n#WorldWarfareEconomics #IndieGame #Community #GameDev #Strategy #RTS",
+                "color": 1942002,
+                "timestamp": "2023-03-15T18:05:00+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/media/Fq4SFOaWIBgRUR0.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/YgTHFbCfk8SS_aeb8PX-imPCYd29kb-_oOWcQEZ5jU8/https/pbs.twimg.com/media/Fq4SFOaWIBgRUR0.jpg",
+                    "width": 1080,
+                    "height": 1080,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com | \ud83d\udcf71",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/BMDD0dE0o41Zl6pq8O7A1bxKybfA_14VztOFDj2Ml5w/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2023-03-15T18:06:38.098000+00:00",
+        "edited_timestamp": null,
+        "flags": 1024,
+        "components": [],
+        "id": "1085625118115516517",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2764\ufe0f"
+                },
+                "count": 2,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 2
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1635704092700835840)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1635704092700835840",
+                "description": "Take control of all aspects of your country including Welfare, Sports, Housing and much more. \n\n#WorldWarfareEconomics #IndieGames #IndieDev #Games #MondayMotivation",
+                "color": 1942002,
+                "timestamp": "2023-03-14T18:07:00+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/ext_tw_video_thumb/1635340336691027968/pu/img/YBRVUa5yDsjXSZDZ.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/PuV96bkIto7JxUGYSb-d-rrYntEyaQa70Ts9Wk1vpZs/https/pbs.twimg.com/ext_tw_video_thumb/1635340336691027968/pu/img/YBRVUa5yDsjXSZDZ.jpg",
+                    "width": 600,
+                    "height": 340,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com | \ud83c\udfac1",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/BMDD0dE0o41Zl6pq8O7A1bxKybfA_14VztOFDj2Ml5w/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2023-03-14T18:07:40.333000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1085262991282421801",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2764\ufe0f"
+                },
+                "count": 14,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 14
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1635341369396051968)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1635341369396051968",
+                "description": "Our Scenarios competition begins TODAY!\n\nJoin our #Discord \ud83d\udd17 https://discord.com/invite/XyX6kFdxRN and pitch your best scenarios and you could win one of these amazing prizes! \n\nGood Luck! \n\n#Competition #Strategy #Games #Gaming #Challenge",
+                "color": 1942002,
+                "timestamp": "2023-03-13T18:05:40+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/media/FrHl_RwWIAcvku3.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/EFwasooHLWzt3CsR6lHh9j-q0AYEsDhxi5b-TNnSWOc/https/pbs.twimg.com/media/FrHl_RwWIAcvku3.jpg",
+                    "width": 1200,
+                    "height": 675,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com | \ud83d\udcf71",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/BMDD0dE0o41Zl6pq8O7A1bxKybfA_14VztOFDj2Ml5w/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2023-03-13T18:06:39.365000+00:00",
+        "edited_timestamp": null,
+        "flags": 1024,
+        "components": [],
+        "id": "1084900347698479138",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2764\ufe0f"
+                },
+                "count": 4,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 4
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1634613405528248321)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1634613405528248321",
+                "description": "Looking to play as a particular country?\n\nYeah, it\u2019s most likely available in #WorldWarfareEconomics, with more still to come! \ud83d\udc40\n\n#IndieGames #IndieGameDev #Gaming #Games #RTS #Strategy #ScreenshotSaturday",
+                "color": 1942002,
+                "timestamp": "2023-03-11T17:53:00+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/ext_tw_video_thumb/1634268024671817748/pu/img/1vMfIHfqu35WlcJR.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/dxMq0qHcxNkUDT23Evbjfr7Z3gvGHndpHovit-qnNOA/https/pbs.twimg.com/ext_tw_video_thumb/1634268024671817748/pu/img/1vMfIHfqu35WlcJR.jpg",
+                    "width": 600,
+                    "height": 340,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com | \ud83c\udfac1",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/BMDD0dE0o41Zl6pq8O7A1bxKybfA_14VztOFDj2Ml5w/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2023-03-11T17:53:14.037000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1084172194176827443",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddf9\ud83c\uddf7"
+                },
+                "count": 2,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 2
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83d\udc40"
+                },
+                "count": 2,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 2
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddfa\ud83c\udde6"
+                },
+                "count": 2,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 2
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddea\ud83c\uddf8"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddf5\ud83c\uddf8"
+                },
+                "count": 2,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 2
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddf5\ud83c\uddf9"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\udde6\ud83c\uddf1"
+                },
+                "count": 2,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 2
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\udde6\ud83c\uddff"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\udde7\ud83c\uddf7"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1633890398836801548)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1633890398836801548",
+                "description": "Want your own scenario to be included in #WorldWarfareEconomics? \n\nJoin our #Discord and enter our scenario #competition today for the chance to have your creation in game!\n\nMore details here \ud83d\udd17https://discord.com/invite/XyX6kFdxRN\n\n#Contest #IndieGame #RTS #Strategy #Community",
+                "color": 1942002,
+                "timestamp": "2023-03-09T18:00:01+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/media/Fqy3j-MWAAcxWNr.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/Zz2DOmKUfNjmk7QFPd2Ac7o8OZSKvRWtzC1CXvsjv6E/https/pbs.twimg.com/media/Fqy3j-MWAAcxWNr.jpg",
+                    "width": 1200,
+                    "height": 675,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com | \ud83d\udcf71",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/BMDD0dE0o41Zl6pq8O7A1bxKybfA_14VztOFDj2Ml5w/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2023-03-09T18:01:05.769000+00:00",
+        "edited_timestamp": null,
+        "flags": 1024,
+        "components": [],
+        "id": "1083449397033050225",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2764\ufe0f"
+                },
+                "count": 5,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 5
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddf5\ud83c\uddf9"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1632812555696496641)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1632812555696496641",
+                "description": "Take part in pre-made scenarios OR create your own using our custom scenario tool!\n\n#WorldWarfareEconomics #IndieGame #IndieGameDev #MondayMotivation #Gaming",
+                "color": 1942002,
+                "timestamp": "2023-03-06T18:37:04+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/tweet_video_thumb/FqjqQ8FXwAAbj6C.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/lSDrtpNFvDd9auJ-3LTj1tYTso3-7tj1l2VnIV6IoyI/https/pbs.twimg.com/tweet_video_thumb/FqjqQ8FXwAAbj6C.jpg",
+                    "width": 600,
+                    "height": 340,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com | \ud83d\udcf71",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/BMDD0dE0o41Zl6pq8O7A1bxKybfA_14VztOFDj2Ml5w/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2023-03-06T18:37:35.298000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1082371416986488872",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83d\udc4d"
+                },
+                "count": 14,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 14
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2764\ufe0f"
+                },
+                "count": 9,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 9
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1632079458848104454)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1632079458848104454",
+                "description": "Divide the land as you see fit! \n\n#WorldWarfareEconomics #IndieGame #IndieDev #Games #RTS #Strategy #ScreenshotSaturday",
+                "color": 1942002,
+                "timestamp": "2023-03-04T18:04:00+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/media/FqUBR-9X0AA5V7l.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/5rHRDcNCm1KD1cjHUTlylpYMQOUiRJFi5LkcbC0kG1g/https/pbs.twimg.com/media/FqUBR-9X0AA5V7l.jpg",
+                    "width": 1200,
+                    "height": 675,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com | \ud83d\udcf71",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/BMDD0dE0o41Zl6pq8O7A1bxKybfA_14VztOFDj2Ml5w/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2023-03-04T18:04:02.061000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1081638197127303228",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83d\udc4d"
+                },
+                "count": 4,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 4
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1630991295270322184)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1630991295270322184",
+                "description": "We\u2019re making World Warfare and Economics to be the best of the best, and we\u2019re taking our time doing so.\n\nWhile you're waiting, what are your other favorite political sims?\n\n#WorldWarfareEconomics #IndieGame #GameDev #Games #RTS",
+                "color": 1942002,
+                "timestamp": "2023-03-01T18:00:01+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/media/FqJpkFTWAAk-Fg3.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/iNGKxjQ8vOgqiuwqnVBh9yg2PecFIJId0p0E_wbsHDw/https/pbs.twimg.com/media/FqJpkFTWAAk-Fg3.jpg",
+                    "width": 1000,
+                    "height": 1000,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com | \ud83d\udcf71",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/BMDD0dE0o41Zl6pq8O7A1bxKybfA_14VztOFDj2Ml5w/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2023-03-01T18:01:50.407000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1080550481333600406",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "2\ufe0f\u20e3"
+                },
+                "count": 8,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 8
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "1\ufe0f\u20e3"
+                },
+                "count": 4,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 4
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "4\ufe0f\u20e3"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "5\ufe0f\u20e3"
+                },
+                "count": 4,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 4
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1630270539464884227)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1630270539464884227",
+                "description": "Utilize your intelligence agencies and take on important missions to make sure you stay ahead of the game!\n\n#IndieGame #IndieGameDev #GameDev #Gaming #StrategyGame",
+                "color": 1942002,
+                "timestamp": "2023-02-27T18:16:00+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/media/FpCDenwXoAAgdQ_.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/lxIieBSENcxne5j7VItTEENtHaa_Sv00ls6wl37voQ4/https/pbs.twimg.com/media/FpCDenwXoAAgdQ_.jpg",
+                    "width": 1200,
+                    "height": 675,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com | \ud83d\udcf71",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/BMDD0dE0o41Zl6pq8O7A1bxKybfA_14VztOFDj2Ml5w/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2023-02-27T18:17:08.714000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1079829557261107211",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83d\udd75\ufe0f"
+                },
+                "count": 9,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 9
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1629181866031960064)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1629181866031960064",
+                "description": "Will we be able to form new nations or buy regions from other countries?\n\nYes, you can offer any ally country an annexation deal for the entire country or specific regions. In addition, you can form new provinces by declaring independence!\n\n#InideGame #IndieGameDev #GameDev",
+                "color": 1942002,
+                "timestamp": "2023-02-24T18:10:00+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/media/FpCFk1rXEA0ubxW.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/wrDnoezwLXtUANcelP0zRYAonQ4pyo3wyYzKdakAcJU/https/pbs.twimg.com/media/FpCFk1rXEA0ubxW.jpg",
+                    "width": 1200,
+                    "height": 675,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com | \ud83d\udcf71",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/BMDD0dE0o41Zl6pq8O7A1bxKybfA_14VztOFDj2Ml5w/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2023-02-24T18:10:42.319000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1078740773006217357",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83d\ude4f"
+                },
+                "count": 17,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 17
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83d\udc4d"
+                },
+                "count": 9,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 9
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1628455328873594880)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1628455328873594880",
+                "description": "Wishlist #WorldWarfareEconomics on #Steam today and get ready to become the leader you\u2019ve always wanted to be!\n\nhttps://s.team/a/1700300/\n\n#WishlistWednesday #IndieGame #GameDev #IndieDev #Gaming",
+                "color": 1942002,
+                "timestamp": "2023-02-22T18:03:00+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/media/FpCC8-yXEBAUBR7.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/wjqyXZZM_j51mo81JAzirVUToCP_gLjJGDnSISpLgGc/https/pbs.twimg.com/media/FpCC8-yXEBAUBR7.jpg",
+                    "width": 1080,
+                    "height": 1080,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com | \ud83d\udcf71",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/BMDD0dE0o41Zl6pq8O7A1bxKybfA_14VztOFDj2Ml5w/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2023-02-22T18:03:14.527000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1078014119099236403",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddf9\ud83c\uddf7"
+                },
+                "count": 2,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 2
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83d\udc4d"
+                },
+                "count": 5,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 5
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2665\ufe0f"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1627731811081003008)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1627731811081003008",
+                "description": "Make trades with other countries to get more of the resources you desperately need.\n\n#WorldWarfareEconomics #IndieGame #IndieDev #GameDev #Gaming",
+                "color": 1942002,
+                "timestamp": "2023-02-20T18:08:00+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/media/FpCCwCZXEAoI7W3.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/NuorVNI85wpvnRk0ILwVC2a-F-g_zIbdc-2KvMO-Roc/https/pbs.twimg.com/media/FpCCwCZXEAoI7W3.jpg",
+                    "width": 1200,
+                    "height": 675,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com | \ud83d\udcf71",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/BMDD0dE0o41Zl6pq8O7A1bxKybfA_14VztOFDj2Ml5w/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2023-02-20T18:08:27.589000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1077290656445243525",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddf9\ud83c\uddf7"
+                },
+                "count": 5,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 5
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2764\ufe0f"
+                },
+                "count": 10,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 10
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddf5\ud83c\uddf8"
+                },
+                "count": 2,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 2
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1627006028893102080)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1627006028893102080",
+                "description": "Receive and complete objectives for some of the largest organizations in the world. \ud83c\udf0d\n\n#IndieGame #IndieGameDev #GameDev #StrategyGame #Gaming #ScreenshotSaturday",
+                "color": 1942002,
+                "timestamp": "2023-02-18T18:04:00+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/media/FpCCWnwXoAEembB.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/PQW7gTj9sI034oDmQ4kFU5gsmcPTcKV08AOiEoJtr8w/https/pbs.twimg.com/media/FpCCWnwXoAEembB.jpg",
+                    "width": 1200,
+                    "height": 675,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com | \ud83d\udcf71",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/BMDD0dE0o41Zl6pq8O7A1bxKybfA_14VztOFDj2Ml5w/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2023-02-18T18:05:48.236000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1076565212339114175",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2764\ufe0f"
+                },
+                "count": 13,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 13
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": "1058615089822961766",
+                    "name": "happy"
+                },
+                "count": 3,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 3
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddf5\ud83c\uddf9"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1625919117122506752)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1625919117122506752",
+                "description": "Apply today to become a part of our #EarlyAccess! \n\nJoin the #Discord and head to the ea-applications channel to sign up!\n\n\ud83d\udd17https://discord.com/invite/XyX6kFdxRN\n\nMake sure you don't miss out and get your applications in quick! \n\n#IndieGame #IndieGames #IndieDev #GameDev #IndieGameDev #Games",
+                "color": 1942002,
+                "timestamp": "2023-02-15T18:05:00+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/media/FpBlG8iXsCYVgQX.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/9ZtQaelZOqWpFUYKmyf7_PqgI9XhjWnHjs7dgpUIm08/https/pbs.twimg.com/media/FpBlG8iXsCYVgQX.jpg",
+                    "width": 1200,
+                    "height": 675,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com | \ud83d\udcf71",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/BMDD0dE0o41Zl6pq8O7A1bxKybfA_14VztOFDj2Ml5w/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2023-02-15T18:06:03.593000+00:00",
+        "edited_timestamp": null,
+        "flags": 1024,
+        "components": [],
+        "id": "1075478113154240532",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2764\ufe0f"
+                },
+                "count": 3,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 3
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1625193085641822209)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1625193085641822209",
+                "description": "Elections will be available in the game. Who will you vote for? \ud83e\udd14\n\n#WorldWarfareEconomics #IndieGame #IndieDev #GameDev #Gaming",
+                "color": 1942002,
+                "timestamp": "2023-02-13T18:00:00+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/media/Fo3HqRmX0AUxyfB.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/-N8SxtFO-qqbCCbtg0DkdV2f35JSpHE50nVoxW8zT0M/https/pbs.twimg.com/media/Fo3HqRmX0AUxyfB.jpg",
+                    "width": 1200,
+                    "height": 675,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com | \ud83d\udcf71",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/BMDD0dE0o41Zl6pq8O7A1bxKybfA_14VztOFDj2Ml5w/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2023-02-13T18:01:34.059000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1074752206915506176",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2665\ufe0f"
+                },
+                "count": 12,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 12
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83d\udc40"
+                },
+                "count": 4,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 4
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1624105927187079171)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1624105927187079171",
+                "description": "Will currencies be implemented?\n\nYes. Currencies will be represented by strength value and not by real value.\n\n#IndieGame #IndieDev #GameDev #Gaming",
+                "color": 1942002,
+                "timestamp": "2023-02-10T18:00:02+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/media/FonNdLyXwAA1pI2.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/SS1zGo3AmWN64QOESIrWbr99m4DVFYrqdpg3NDgsiEU/https/pbs.twimg.com/media/FonNdLyXwAA1pI2.jpg",
+                    "width": 1200,
+                    "height": 675,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com | \ud83d\udcf71",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/BMDD0dE0o41Zl6pq8O7A1bxKybfA_14VztOFDj2Ml5w/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2023-02-10T18:00:32.122000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1073664783536107621",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2764\ufe0f"
+                },
+                "count": 2,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 2
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1623381148104622080)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1623381148104622080",
+                "description": "Build up your navy forces to control the seas! \ud83c\udf0a\n\n#WorldWarfareEconomics #IndieGame #IndieDev #GameDev #Gaming",
+                "color": 1942002,
+                "timestamp": "2023-02-08T18:00:01+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/media/FoYmmRgXEAEtVlK.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/yD2gXgGg5jg9yEip71g2JS4nMG4XazGz6ZXnYOSBogM/https/pbs.twimg.com/media/FoYmmRgXEAEtVlK.jpg",
+                    "width": 1200,
+                    "height": 675,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com | \ud83d\udcf71",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/BMDD0dE0o41Zl6pq8O7A1bxKybfA_14VztOFDj2Ml5w/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2023-02-08T18:01:49.191000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1072940331055722626",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2764\ufe0f"
+                },
+                "count": 7,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 7
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83d\udc4d"
+                },
+                "count": 2,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 2
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1622655436154363905)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1622655436154363905",
+                "description": "Give your people Freedom of Speech\u2026 or not?\n\n#WorldWarfareEconomics #IndieGame #IndieDev #GameDev #Gaming",
+                "color": 1942002,
+                "timestamp": "2023-02-06T17:56:18+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/media/FoTUblRXoAcGDL2.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/LQeWgNyjR0cc5wm-6TgumOsB6UXVvA8EGumt1KZr_E4/https/pbs.twimg.com/media/FoTUblRXoAcGDL2.jpg",
+                    "width": 1200,
+                    "height": 675,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com | \ud83d\udcf71",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/BMDD0dE0o41Zl6pq8O7A1bxKybfA_14VztOFDj2Ml5w/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2023-02-06T17:56:48.824000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1072214295494004786",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2764\ufe0f"
+                },
+                "count": 5,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 5
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1621931595333787648)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1621931595333787648",
+                "description": "KABOOM! \ud83d\ude2e\n\n#WorldWarfareEconomics #IndieGame #IndieDev #GameDev #Gaming #ScreenshotSaturday",
+                "color": 1942002,
+                "timestamp": "2023-02-04T18:00:01+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/media/FoDT6bEaUAU0IHk.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/jzAbIFyHF5HIllG890ZCSyPSiAbj054A5nDjZ69Oq38/https/pbs.twimg.com/media/FoDT6bEaUAU0IHk.jpg",
+                    "width": 1200,
+                    "height": 675,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com | \ud83d\udcf71",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/BMDD0dE0o41Zl6pq8O7A1bxKybfA_14VztOFDj2Ml5w/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2023-02-04T18:00:19.655000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1071490404052107324",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddfa\ud83c\udde6"
+                },
+                "count": 2,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 2
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddfa\ud83c\uddf8"
+                },
+                "count": 4,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 4
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83d\udca5"
+                },
+                "count": 4,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 4
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddf5\ud83c\uddf9"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddf3\ud83c\uddf4"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1620121037504405505)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1620121037504405505",
+                "description": "Wouldn\u2019t it be great if the government was subsidizing energy fees right now? \n\nWell, in #WorldWarfareEconomics you can at least do it virtually\u2026 \ud83d\ude02\n\n#IndieGame #GameDev #Gaming",
+                "color": 1942002,
+                "timestamp": "2023-01-30T18:05:30+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/media/FmW0pv8aEAAMF0B.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/U6nTueeXVq9Hpivb5zmUbQKNPgZ6-zonGaktBJRB2eM/https/pbs.twimg.com/media/FmW0pv8aEAAMF0B.jpg",
+                    "width": 1200,
+                    "height": 675,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com | \ud83d\udcf71",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/BMDD0dE0o41Zl6pq8O7A1bxKybfA_14VztOFDj2Ml5w/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2023-01-30T18:05:50.385000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1069679851906281592",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83d\udcaf"
+                },
+                "count": 3,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 3
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1619032624562933760)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1619032624562933760",
+                "description": "What type of sports events will be in the game?\n\nThere will be world cup events for every sport in the game including Soccer, Baseball, Basketball, Tennis and even the Olympics!\n\n#WorldWarfareEconomics #IndieGame #GameDev #Gaming",
+                "color": 1942002,
+                "timestamp": "2023-01-27T18:00:32+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/media/FmneP4YXgBIji-v.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/pZpDpfzDLOlsID09srlEpDy6gaPz__0WXmg-Y7QXyUE/https/pbs.twimg.com/media/FmneP4YXgBIji-v.jpg",
+                    "width": 1200,
+                    "height": 675,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com | \ud83d\udcf71",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/BMDD0dE0o41Zl6pq8O7A1bxKybfA_14VztOFDj2Ml5w/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2023-01-27T18:02:17.099000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1068591793723166780",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2764\ufe0f"
+                },
+                "count": 9,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 9
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1618311488631889935)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1618311488631889935",
+                "description": "Join your fellow leaders to discuss strategy and policy in the #WorldWarfareandEconomics #Discord!\n\n\ud83d\udc49https://discord.com/invite/XyX6kFdxRN\n\n#Community #Gaming",
+                "color": 1942002,
+                "timestamp": "2023-01-25T18:15:00+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/media/FmndhFvX0AESKxF.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/5QvYHTe-nbBXyWHCfaDLag5lTsd4jflB1exEmRuEAr4/https/pbs.twimg.com/media/FmndhFvX0AESKxF.jpg",
+                    "width": 1200,
+                    "height": 675,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com | \ud83d\udcf71",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/BMDD0dE0o41Zl6pq8O7A1bxKybfA_14VztOFDj2Ml5w/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2023-01-25T18:16:17.075000+00:00",
+        "edited_timestamp": null,
+        "flags": 1024,
+        "components": [],
+        "id": "1067870541106659450",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2665\ufe0f"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1617585454420721838)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1617585454420721838",
+                "description": "Take your country to planets never explored before like Venus! \n\n#WorldWarfareEconomics #IndieGame #GameDev #Gaming",
+                "color": 1942002,
+                "timestamp": "2023-01-23T18:10:00+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/media/FmWz9ZracAEmLSY.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/mvptVaeO7J7uimxec6rRHRN4_ad_mCmNh5rrLoM7-_4/https/pbs.twimg.com/media/FmWz9ZracAEmLSY.jpg",
+                    "width": 1200,
+                    "height": 675,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com | \ud83d\udcf71",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/BMDD0dE0o41Zl6pq8O7A1bxKybfA_14VztOFDj2Ml5w/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2023-01-23T18:10:31.731000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1067144316897742980",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2764\ufe0f"
+                },
+                "count": 2,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 2
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1616495777492176902)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1616495777492176902",
+                "description": "Will Religions be implemented?\n\nYes, Governments will be able to subsidize religions and increase/decrease their power within the country\n\n#WorldWarfareEconomics #IndieGame #GameDev #Gaming",
+                "color": 1942002,
+                "timestamp": "2023-01-20T18:00:01+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/media/Fmnc2koXEBkY5dh.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/E7dPh6VmGVNJshyR750dcPgOChaDsUb_Zyqs7FbtjDs/https/pbs.twimg.com/media/Fmnc2koXEBkY5dh.jpg",
+                    "width": 1200,
+                    "height": 675,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com | \ud83d\udcf71",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/BMDD0dE0o41Zl6pq8O7A1bxKybfA_14VztOFDj2Ml5w/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2023-01-20T22:39:41.424000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1066124890022883358",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2764\ufe0f"
+                },
+                "count": 9,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 9
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1615773515315089410)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1615773515315089410",
+                "description": "Put your leadership skills to the test in #WorldWarfareEconimics. \n\nLead your country to glory, or fail along the path. \n\nWishlist World Warfare and Economics on #Steam \ud83d\udc49 https://s.team/a/1700300/\n\n#WishlistWednesday #Gaming",
+                "color": 1942002,
+                "timestamp": "2023-01-18T18:10:00+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/media/FmncK9QXECsvejb.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/utZNwXvW2ERoUksrfrymwLD7vnMup5lDeIN7SVgMags/https/pbs.twimg.com/media/FmncK9QXECsvejb.jpg",
+                    "width": 1200,
+                    "height": 675,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com | \ud83d\udcf71",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/BMDD0dE0o41Zl6pq8O7A1bxKybfA_14VztOFDj2Ml5w/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2023-01-18T18:10:49.933000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1065332453914451990",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2764\ufe0f"
+                },
+                "count": 4,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 4
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1615050123788095502)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1615050123788095502",
+                "description": "Don\u2019t ignore your technology trees! There\u2019s plenty of useful stuff that you are going to need. \n\n#WorldWarfareEconomics #IndieGame #GameDev #Gaming",
+                "color": 1942002,
+                "timestamp": "2023-01-16T18:15:30+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/media/FmWzcKSaMAA-nO_.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/vdK-5nBjQVDqEMYENhmTQxyVuFUXqfbAnMX5yPcjyvg/https/pbs.twimg.com/media/FmWzcKSaMAA-nO_.jpg",
+                    "width": 1200,
+                    "height": 675,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com | \ud83d\udcf71",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/BMDD0dE0o41Zl6pq8O7A1bxKybfA_14VztOFDj2Ml5w/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2023-01-16T18:16:44.661000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1064609166020317244",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2764\ufe0f"
+                },
+                "count": 4,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 4
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1613959688525053961)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1613959688525053961",
+                "description": "Keep your \ud83d\udc40 on the news from around the world. It could be VERY important.\n\n#WorldWarfareEconomics #IndieGame #GameDev #Gaming",
+                "color": 1942002,
+                "timestamp": "2023-01-13T18:02:30+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/media/FmWy3ygaYAAHvZi.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/f408DNn5LaUvk1JecGyLlEeB7gNV7_m-HLMKqW0qO5s/https/pbs.twimg.com/media/FmWy3ygaYAAHvZi.jpg",
+                    "width": 1200,
+                    "height": 675,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com | \ud83d\udcf71",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/BMDD0dE0o41Zl6pq8O7A1bxKybfA_14VztOFDj2Ml5w/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2023-01-13T18:02:48.825000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1063518496673255484",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83d\ude0d"
+                },
+                "count": 10,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 10
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83d\udc4c\ud83c\udffc"
+                },
+                "count": 2,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 2
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddf5\ud83c\uddf9"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": "1058615207259287554",
+                    "name": "salute"
+                },
+                "count": 2,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 2
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2764\ufe0f"
+                },
+                "count": 3,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 3
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1611422473311903745)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1611422473311903745",
+                "description": "Will it be space program mechanisms in the game?\n\n#WorldWarfareEconomics #FAQ #InideGame #IndieDev",
+                "color": 1942002,
+                "timestamp": "2023-01-06T18:00:31+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/media/Fkm_cHFX0AEkdDt.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/GxZROpq_NDiku6W8850x9gr0Siv0YFd6Qpw01VlC_MU/https/pbs.twimg.com/media/Fkm_cHFX0AEkdDt.jpg",
+                    "width": 1200,
+                    "height": 675,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/lTBN3RpZSOjs9Vy-2Od05e77srff5cJjU0yMdY9Hxkc/%3Fsize%3D256/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2023-01-06T18:01:59.102000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1060981573060677744",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2764\ufe0f"
+                },
+                "count": 2,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 2
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1610697699120091136)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1610697699120091136",
+                "description": "Come and join the community and discuss your grand strategies!\n\nJump into our Discord here:\n\n\ud83e\ude99 https://discord.com/invite/XyX6kFdxRN \n\n#WorldWarfareEconomics #Discord #GrandStrategy #IndieGame",
+                "color": 1942002,
+                "timestamp": "2023-01-04T18:00:31+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/media/FknAlxyXgAAwxp6.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/RZzdHMDeWohZR6ii9l_RZwizaPHwUUfrspAc3SzQ5oM/https/pbs.twimg.com/media/FknAlxyXgAAwxp6.jpg",
+                    "width": 1200,
+                    "height": 675,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/lTBN3RpZSOjs9Vy-2Od05e77srff5cJjU0yMdY9Hxkc/%3Fsize%3D256/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2023-01-04T18:02:09.874000+00:00",
+        "edited_timestamp": null,
+        "flags": 1024,
+        "components": [],
+        "id": "1060256842510508214",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddfa\ud83c\uddf8"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddf7\ud83c\uddf8"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddf5\ud83c\uddf9"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83d\udc4d"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1609972793696817153)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1609972793696817153",
+                "description": "Happy New Year to all of you from us here @OkronStudio.\n\nLet's get those resolutions off to a good start, What are you aiming for this year? \ud83d\udcaa\n\n#WorldWarfareEconomics #HappyNewYear #NewYear #IndieGame",
+                "color": 1942002,
+                "timestamp": "2023-01-02T18:00:00+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/media/Fkm-nQfWIAEXIei.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/JFCS03iNgPewdLQIi9AXW_B39V1QdqsNw0_KNDhcTvs/https/pbs.twimg.com/media/Fkm-nQfWIAEXIei.jpg",
+                    "width": 1200,
+                    "height": 675,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/lTBN3RpZSOjs9Vy-2Od05e77srff5cJjU0yMdY9Hxkc/%3Fsize%3D256/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2023-01-02T18:00:44.716000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1059531709600780431",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83d\udc4d"
+                },
+                "count": 2,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 2
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1609248186907901957)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1609248186907901957",
+                "description": "Don\u2019t fall behind in the space race. There are others hoping to capitalize if you delay.\n\n#WorldWarfareEconomics #ScreenshotSaturday #IndieGame #IndieDev",
+                "color": 1942002,
+                "timestamp": "2022-12-31T18:00:40+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/media/Fkm-EHyWIA4C4Zs.png",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/MWsrSP-cB8gDE6GCiQ_UCMavlwUw8Fjvuf6RA2pqGMk/https/pbs.twimg.com/media/Fkm-EHyWIA4C4Zs.png",
+                    "width": 887,
+                    "height": 671,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/lTBN3RpZSOjs9Vy-2Od05e77srff5cJjU0yMdY9Hxkc/%3Fsize%3D256/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2022-12-31T18:02:04.712000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1058807269397106719",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddf8"
+                },
+                "count": 6,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 6
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddf5"
+                },
+                "count": 5,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 5
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\udd70\ufe0f"
+                },
+                "count": 6,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 6
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\udde8"
+                },
+                "count": 5,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 5
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddea"
+                },
+                "count": 6,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 6
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83d\udc4d"
+                },
+                "count": 2,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 2
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddf5\ud83c\uddf9"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1608160857866870784)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1608160857866870784",
+                "description": "Ready to compete against other countries for resources and dominance? \n\nWishlist World Warfare and Economics on #STEAM:\n\ud83e\ude99 https://s.team/a/1700300/\n\n#WorldWarfareEconomics #WishlistWednesday #GrandStrategy #IndieGame",
+                "color": 1942002,
+                "timestamp": "2022-12-28T18:00:01+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/media/Fkm9Zf8WAAAmbHC.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/ej_nurkkDPrmBglwEpwdpyJjXNQHHbEOMcWQxBBTz-Q/https/pbs.twimg.com/media/Fkm9Zf8WAAAmbHC.jpg",
+                    "width": 1200,
+                    "height": 675,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/lTBN3RpZSOjs9Vy-2Od05e77srff5cJjU0yMdY9Hxkc/%3Fsize%3D256/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2022-12-28T18:01:17.858000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1057719909280383076",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\udded"
+                },
+                "count": 8,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 8
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddfe"
+                },
+                "count": 8,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 8
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddf5"
+                },
+                "count": 8,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 8
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddea"
+                },
+                "count": 8,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 8
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddf5\ud83c\uddf9"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1606711301589372928)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1606711301589372928",
+                "description": "From everyone at @OkronStudio we\u2019d like to wish you a Merry Christmas and Happy Holidays! \n\n#WorldWarfare&Economics #MerryChristmas #HappyHolidays #IndieGame",
+                "color": 1942002,
+                "timestamp": "2022-12-24T18:00:00+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/media/Fkm86HwWIAsSgBG.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/EOl5Enft3O52nz9sfkODIsQJFD0CpoGBE0KrhlJsXhg/https/pbs.twimg.com/media/Fkm86HwWIAsSgBG.jpg",
+                    "width": 1200,
+                    "height": 675,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/lTBN3RpZSOjs9Vy-2Od05e77srff5cJjU0yMdY9Hxkc/%3Fsize%3D256/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2022-12-24T18:02:13.113000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1056270589574250627",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83d\udc4d"
+                },
+                "count": 9,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 9
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddfa\ud83c\uddf2"
+                },
+                "count": 4,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 4
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83e\udd73"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\udf84"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddf5\ud83c\uddf9"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1606348918354153472)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1606348918354153472",
+                "description": "Will a political system be implemented?\n\n#WorldWarfareEconomics #FAQ #InideGame #IndieDev",
+                "color": 1942002,
+                "timestamp": "2022-12-23T18:00:01+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/media/Fkm737WX0AEb3Gp.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/r6DLOOJgN4ftxePJ7LxdSepgvvlzHJs4tYBn8zGde1c/https/pbs.twimg.com/media/Fkm737WX0AEb3Gp.jpg",
+                    "width": 1200,
+                    "height": 675,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/lTBN3RpZSOjs9Vy-2Od05e77srff5cJjU0yMdY9Hxkc/%3Fsize%3D256/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2022-12-23T18:00:13.529000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1055907700137017444",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddea\ud83c\uddec"
+                },
+                "count": 3,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 3
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddfa\ud83c\uddf2"
+                },
+                "count": 5,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 5
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddf9\ud83c\uddf7"
+                },
+                "count": 2,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 2
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83d\udc4d"
+                },
+                "count": 2,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 2
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddf5\ud83c\uddf0"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddf5\ud83c\uddf9"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\udde6\ud83c\uddf1"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1605626691442835474)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1605626691442835474",
+                "description": "Take control of over 200 different countries and turn them into the next global superpower!! \ud83c\udf0d\n\n#WorldWarfareEconomics #IndieGame #Gaming #GameDevelopers",
+                "color": 1942002,
+                "timestamp": "2022-12-21T18:10:08+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/media/FkhU9YIWAAwYbtx.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/_tFbEGtagUp1G65NX5f_xQz9kpRLH2zCmm7sPbya9cU/https/pbs.twimg.com/media/FkhU9YIWAAwYbtx.jpg",
+                    "width": 1200,
+                    "height": 675,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/lTBN3RpZSOjs9Vy-2Od05e77srff5cJjU0yMdY9Hxkc/%3Fsize%3D256/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2022-12-21T18:10:45.267000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1055185574107029546",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddfa\ud83c\uddf2"
+                },
+                "count": 8,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 8
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddfa\ud83c\udde6"
+                },
+                "count": 3,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 3
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddf9\ud83c\uddf7"
+                },
+                "count": 2,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 2
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddf7\ud83c\uddfa"
+                },
+                "count": 2,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 2
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": "797886220155355166",
+                    "name": "TE_catJam",
+                    "animated": true
+                },
+                "count": 2,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 2
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\udde7\ud83c\uddf7"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83d\udc4d"
+                },
+                "count": 3,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 3
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddf5\ud83c\uddf0"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\udde6\ud83c\uddf1"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddf5\ud83c\uddf9"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddf7\ud83c\uddf8"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "[Tweeted](https://twitter.com/WorldWarfareEco/status/1604910354722684929)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "url": "https://twitter.com/WorldWarfareEco/status/1604910354722684929",
+                "description": "Keep up to date with how many citizens are migrating to you, and how many are leaving!\n\nTry to keep your people as happy as possible! \ud83d\ude01\n\n#WorldWarfareEconomics #MemeMonday #IndieGame #IndieDev",
+                "color": 1942002,
+                "timestamp": "2022-12-19T18:43:41+00:00",
+                "author": {
+                    "name": "World Warfare & Economics (@WorldWarfareEco)",
+                    "url": "https://twitter.com/WorldWarfareEco",
+                    "icon_url": "https://pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7MQ5CDBY1NZqloPxlNu6p-ufemEjMTK2hU0wIbd3UTQ/https/pbs.twimg.com/profile_images/1600525050020601856/5OBJ-hK3.jpg"
+                },
+                "image": {
+                    "url": "https://pbs.twimg.com/media/FkXJcXBWYAI5Cpu.jpg",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/68fz7ZO97A8NgXoDRjyyMHfDDMhbrGRhWOkcehjmj98/https/pbs.twimg.com/media/FkXJcXBWYAI5Cpu.jpg",
+                    "width": 1200,
+                    "height": 666,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Powered by TweetShift.com",
+                    "icon_url": "https://cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png?size=256",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/lTBN3RpZSOjs9Vy-2Od05e77srff5cJjU0yMdY9Hxkc/%3Fsize%3D256/https/cdn.discordapp.com/avatars/713026372142104687/a5a81d9dc487e0517927682f54e26bcf.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2022-12-19T18:44:22.527000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1054469259377520650",
+        "channel_id": "1052147142162141204",
+        "author": {
+            "id": "1053344805758967918",
+            "username": "World Warfare & Economics \u2022 TweetShift",
+            "avatar": "e380c27ab6d546b431b2464828df3af7",
+            "discriminator": "0000",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "global_name": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "application_id": "713026372142104687",
+        "webhook_id": "1053344805758967918",
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\udded"
+                },
+                "count": 10,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 10
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddfe"
+                },
+                "count": 10,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 10
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddf5"
+                },
+                "count": 10,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 10
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddea"
+                },
+                "count": 10,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 10
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83d\ude0d"
+                },
+                "count": 3,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 3
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83d\udc4d"
+                },
+                "count": 2,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 2
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83c\uddf5\ud83c\uddf9"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "type": 0,
+        "content": "**Highest performance impact:**\n1. Quality settings (can be changed through settings -> visuals -> texture quality)\n2. Terrain (can be disabled through settings -> visuals -> disable terrain -> on)\n3. Weather (can be disabled through settings -> visuals -> weather -> off)\n\n**Medium performance impact:**\n1. Buildings (can be disabled through settings -> visuals -> disable buildings -> on)\n2. Trees (can be disabled through settings -> visuals -> disable trees -> on)\n3. Custom frontiers (can be disable through settings -> visuals -> optimize frontiers -> on)\n\n**Low performance impact**\n1. Clouds (can be disabled through settings - > visuals -> clouds -> off)\n2. Post Processing (can be disabled through settings -> post processing -> off)\n3. Disable 3D units (can be disabled through settings -> disable 3D units -> on)",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2023-12-27T15:31:47.988000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1189591469997183026",
+        "channel_id": "1189589049653088297",
+        "author": {
+            "id": "712473098540023809",
+            "username": "lotous21",
+            "avatar": "fecf8238e8858227e9124242d65bd5cd",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "lotous21",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83d\udc4d\ud83c\udffd"
+                },
+                "count": 27,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 27
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    }
+]

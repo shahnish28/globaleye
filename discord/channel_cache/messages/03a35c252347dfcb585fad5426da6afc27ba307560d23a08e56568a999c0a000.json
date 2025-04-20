@@ -1,0 +1,121 @@
+[
+    {
+        "type": 0,
+        "content": "Hello all! Before you click \"Open a ticket!\" make sure you know what you want to say or report, when you have clicked \"Open a ticket!\" you can start typing, if nothing is written when we get there, the ticket will be dismissed! Repeatedly making empty tickets will result in getting blocked from making tickets.\n\nThank you!",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2023-01-22T22:36:31.938000+00:00",
+        "edited_timestamp": "2023-02-11T21:45:06.043000+00:00",
+        "flags": 0,
+        "components": [],
+        "id": "1066848870992195584",
+        "channel_id": "1052181966079934524",
+        "author": {
+            "id": "192353951994216449",
+            "username": "amn92",
+            "avatar": "d274a326303d1f457a43415ecaf13bc8",
+            "discriminator": "0",
+            "public_flags": 4195072,
+            "flags": 4195072,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "AMN",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83d\udc4d"
+                },
+                "count": 36,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 36
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "title": "Open a ticket!",
+                "description": "By clicking the button, a ticket will be opened for you.",
+                "color": 9550,
+                "footer": {
+                    "text": "Powered by ticketsbot.net",
+                    "icon_url": "https://ticketsbot.net/assets/img/logo.png",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/DZoc9H1nrl2e-cRSvZl7Due9QUUHMuuElrF0XrcI-9g/https/ticketsbot.net/assets/img/logo.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2022-12-16T19:58:08.863000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [
+            {
+                "type": 1,
+                "id": 1,
+                "components": [
+                    {
+                        "type": 2,
+                        "id": 2,
+                        "custom_id": "ovxijksNdufdChbjNrXUbPdfhGUxOSzFrJmQYlrMyPILuUpEtxkclcoOVLOZHPLVDBnEqiqlLJdSGzWF",
+                        "style": 1,
+                        "label": "Open a ticket!",
+                        "emoji": {
+                            "name": "\ud83d\udce9"
+                        }
+                    }
+                ]
+            }
+        ],
+        "resolved": {
+            "users": {},
+            "members": {},
+            "channels": {},
+            "roles": {}
+        },
+        "id": "1053400661179514900",
+        "channel_id": "1052181966079934524",
+        "author": {
+            "id": "508391840525975553",
+            "username": "Tickets",
+            "avatar": "33f07d5d37e948d9d726b3f25c7eb7e7",
+            "discriminator": "6981",
+            "public_flags": 589824,
+            "flags": 589824,
+            "bot": true,
+            "banner": null,
+            "accent_color": null,
+            "global_name": null,
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false
+    }
+]

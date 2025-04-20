@@ -1,0 +1,217 @@
+[
+    {
+        "type": 0,
+        "content": "",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "rich",
+                "title": "Dictator or President?",
+                "description": "Hello Citizen! We are launching teams on Discord, which path will you take? Will you choose to be a ruthless Dictator or an inspiring President? You are only able to choose one of these teams, but you can change team at any time!",
+                "color": 4379061,
+                "image": {
+                    "url": "https://probot.media/ixF1ytjYY1.png",
+                    "proxy_url": "https://images-ext-1.discordapp.net/external/0qEH-1qZy82p6u4bZI7-sViv93vRYP221xGV4b283NI/https/probot.media/ixF1ytjYY1.png",
+                    "width": 1354,
+                    "height": 675,
+                    "flags": 0
+                },
+                "footer": {
+                    "text": "Okron Studio",
+                    "icon_url": "https://probot.media/5EC3KuMFTV.png",
+                    "proxy_icon_url": "https://images-ext-1.discordapp.net/external/jhA0ZdaP3J7gMnyWh2W5Ew1awqRTSYZuEG680UufzMg/https/probot.media/5EC3KuMFTV.png"
+                },
+                "content_scan_version": 1
+            }
+        ],
+        "timestamp": "2024-02-15T22:03:34.046000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [
+            {
+                "type": 1,
+                "id": 1,
+                "components": [
+                    {
+                        "type": 2,
+                        "id": 2,
+                        "custom_id": "rr:btn:rr_gvwtmq89",
+                        "style": 4,
+                        "label": "Dictator"
+                    },
+                    {
+                        "type": 2,
+                        "id": 3,
+                        "custom_id": "rr:btn:rr_4uv52hut",
+                        "style": 1,
+                        "label": "President"
+                    }
+                ]
+            }
+        ],
+        "resolved": {
+            "users": {},
+            "members": {},
+            "channels": {},
+            "roles": {}
+        },
+        "id": "1207809454830129232",
+        "channel_id": "896717571078901800",
+        "author": {
+            "id": "928429702052470794",
+            "username": "Brains | Shop",
+            "avatar": "69266ca2da74d35cadb8562beadc04f3",
+            "discriminator": "8186",
+            "public_flags": 0,
+            "flags": 0,
+            "bot": true,
+            "banner": null,
+            "accent_color": null,
+            "global_name": null,
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false
+    },
+    {
+        "type": 0,
+        "content": "**Links to the different World Warfare & Economics social medias:**\n\n<:yt:900454809835012147>YouTube #1: https://www.youtube.com/c/WorldWarfareEconomic\n<:yt:900454809835012147>YouTube #2: https://www.youtube.com/channel/UC8DOtp9B3vzTiyczJ1l15aw\n<:wwe:900452128525525023>Website: https://www.okronstudio.com/\n<:Okron:1123969350047629322>Forum: https://forum.okronstudio.com/\n<:reddit:900455111233503293>Reddit: https://www.reddit.com/r/WorldWarfareEconomic/\n<:fb:900455111338369106>Facebook 1: https://www.facebook.com/WorldWarfareEconomic/\n<:fb:900455111338369106>Facebook 2: https://www.facebook.com/okronstudio\n<:X_:1178558187130081414>X: https://twitter.com/WorldWarfareEco\n<:instagram:1075500239680716882>Instagram: worldwarfare_economics\n<:tiktok:1075499988278317066>TikTok: @worldwarfareandeconomics\n\n**If you feel like being extra helpful to the Developer, please wishlist World Warfare & Economics on Steam here, if you're not buying the game yet: https://store.steampowered.com/app/1700300/World_Warfare__Economics/**\n\n**Thank you for taking the time to read and welcome to the official World Warfare & Economics server <@&897901485713666068>! \u2764\ufe0f**",
+        "mentions": [],
+        "mention_roles": [
+            "897901485713666068"
+        ],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2023-06-28T21:20:46.006000+00:00",
+        "edited_timestamp": "2024-01-17T05:11:19.883000+00:00",
+        "flags": 4,
+        "components": [],
+        "id": "1123724698870632548",
+        "channel_id": "896717571078901800",
+        "author": {
+            "id": "192353951994216449",
+            "username": "amn92",
+            "avatar": "d274a326303d1f457a43415ecaf13bc8",
+            "discriminator": "0",
+            "public_flags": 4195072,
+            "flags": 4195072,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "AMN",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false
+    },
+    {
+        "type": 0,
+        "content": "**Off-note message from the rules:**\n**Anyone being a provocateur or someone who likes to find loopholes in the server rules or harassing/insulting people in conversations and especially based on nationality, race, religion, sex or sexual orientation or political belief (try to hold your political belief to yourself though in order to not provoke a response from certain people), will be subject to administrative action! Consequences can be everything from a simple warning, timeouts, losing the ability to speak or read (or both) in certain channels, kick or a ban. If you start one bad conversation after another and won't listen to Server Staff, you will be subject to administrative action. Politics should only be discussed with utmost civility and consideration for others and the well-being of the server!**\n\n-----------\n\n**Roles:**\n\n**<@&897903493585727528> - The one and only <@712473098540023809>, the main Developer of World Warfare & Economics.**\n\n**<@&1075074946461601792> - Community Manager, leader of the Server Staff.**\n\n**<@&897596702947688528> - Important partners, part of the Server Staff.**\n\n**<@&899682367273316442> - Important server moderators, part of the Server Staff.**\n\n** <@&1068252333093433454>-  Honorary role and our highest available role that can be given to people, for people whom have helped out the server, the game and been very active.**\n\n** <@&898578786059182080> - Very special people that has given one or more server boosts.**\n\n** <@&1001191154936725637> - Members that were Alpha and Closed Beta testers as well as Server Supporters, Localization Testers, Competition Winners, Generals and Ministers! Getting this role grants you access to the VIP channel.**\n\n** <@&1001192016601948290> and <@&906962521548804127> - Community members that helped with the early game testing.**\n\n**<@&1053060669802549268> <@&1134144021380464660> <@&1053061326924152894> <@&1053062893437992960> <@&1053062166212775966> <@&1134145438900039772> <@&1134145682605871294> <@&1053063153631637564> - Military ranks, gained by being active members.**\n\n**<@&897901485713666068> - Standard role for everyone in this server.**\n\n-------",
+        "mentions": [
+            {
+                "id": "712473098540023809",
+                "username": "lotous21",
+                "avatar": "fecf8238e8858227e9124242d65bd5cd",
+                "discriminator": "0",
+                "public_flags": 0,
+                "flags": 0,
+                "banner": null,
+                "accent_color": null,
+                "global_name": "lotous21",
+                "avatar_decoration_data": null,
+                "banner_color": null,
+                "clan": null,
+                "primary_guild": null
+            }
+        ],
+        "mention_roles": [
+            "898578786059182080",
+            "1053062893437992960",
+            "1001192016601948290",
+            "1075074946461601792",
+            "1001191154936725637",
+            "897903493585727528",
+            "1068252333093433454",
+            "1134145438900039772",
+            "897596702947688528",
+            "1134145682605871294",
+            "897901485713666068",
+            "1053060669802549268",
+            "1134144021380464660",
+            "1053062166212775966",
+            "899682367273316442",
+            "1053063153631637564",
+            "1053061326924152894",
+            "906962521548804127"
+        ],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2023-06-28T21:18:23.080000+00:00",
+        "edited_timestamp": "2024-06-19T18:41:35.841000+00:00",
+        "flags": 0,
+        "components": [],
+        "id": "1123724099395522631",
+        "channel_id": "896717571078901800",
+        "author": {
+            "id": "192353951994216449",
+            "username": "amn92",
+            "avatar": "d274a326303d1f457a43415ecaf13bc8",
+            "discriminator": "0",
+            "public_flags": 4195072,
+            "flags": 4195072,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "AMN",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false
+    },
+    {
+        "type": 0,
+        "content": "**Hello <@&897901485713666068>! Please read the rules for your own and others sake!**\n\n**I. Do not share sensitive private information and never share it if you feel it will be used for malicious intent.**\n*A) You reserve to say how old you are, what sex you are, your country, etc.*\n*B) Keep all sensitive/private information to yourself such as real-life name, address, bank details, etc.*\n\n**II. Sending links or asking for any sensitive/private information about unknown members (non-friends) will get you permanently banned!**\n*A) Report malicious links to Server Staff ASAP!*\n*B) Don't click links that you are uncertain of.*\n\n**III. No NSFW content messages in the chat channels!**\n*A) Cursing is allowed, hate speech and prejudice is not allowed, racism is not allowed!*\n*B) Pornography including graphic memes are not allowed, gore, rape, and murder photos are not allowed!*\n\n**IV. Do not harass members of the discord server!**\n*A) Treat others the way you would like to be treated, in a friendly manner.*\n*B) Do not be rude or antagonizing with intent, NEVER ask for nudes or otherwise pornographic material from any user because we WILL tell Discord Support about it and you may be prosecuted if any illegal crime has been committed.*\n*C) It is your responsibility to not offend people of the server, so choose your phrasing carefully.*\n*D) **Zero-Tolerance Policy: Any member found engaging in hate speech or promoting violence will face immediate and permanent removal from this server.***\n\n**V. No spamming, flooding, or communicating in other languages than English on any text channels!**\n*A) Use proper manners when discussing or debating political subjects on any of the text boards.*\n*B) No degrading propaganda allowed, which means no advertising for a political belief or manipulating others with lies to promote a political ideology.*\n*C) To help Server Staff keeping the server clean, please use channels in English exclusively.*\n\n**VI. Do not abuse mentions!**\n*A) Do not mass-mention members!*\n*B) Do not mass-mention Server Staff, unless it's very urgent!*\n*C) One mention is usually enough.*\n\n**VII. Do not harass members of the Discord in direct messages!**\n*A) No advertising for other Discord servers, other communities, or websites in direct messages!*\n*B) No advertising for other Discord servers, other communities, or websites in any of the channels in the Discord server, unless given permission from the Developer.*\n\n**VIII. Repeated complaints from members of the community will result in administrative action!**\n*A) If a member of the Server Staff receive several complaints about a member, they will take action. This action may vary depending on what's going on.*\n*B) Complaints are submitted to the Server Staff!*\n\n**IX. Developers, Administrators and Moderators have the right to demote, mute, kick or ban without warning for mass-rulebreakers, perverts, trolls, bots, spammers, scammers, and such.**\n*A) Server Staff can delete inappropriate content.*\n*B) If your main profile is banned, you cannot join with another.*\n*C) Please report any issues to Server Staff as soon as possible by either mentioning them in a channel, send them a DM or if it's not too urgent you can use the \u2060<#1052181966079934524> channel.*",
+        "mentions": [],
+        "mention_roles": [
+            "897901485713666068"
+        ],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2023-06-28T21:14:33.841000+00:00",
+        "edited_timestamp": "2024-01-13T00:13:19.151000+00:00",
+        "flags": 0,
+        "components": [],
+        "id": "1123723137897468108",
+        "channel_id": "896717571078901800",
+        "author": {
+            "id": "192353951994216449",
+            "username": "amn92",
+            "avatar": "d274a326303d1f457a43415ecaf13bc8",
+            "discriminator": "0",
+            "public_flags": 4195072,
+            "flags": 4195072,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "AMN",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false
+    }
+]

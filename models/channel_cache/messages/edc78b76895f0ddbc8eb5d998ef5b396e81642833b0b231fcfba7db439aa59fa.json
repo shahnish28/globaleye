@@ -1,0 +1,5055 @@
+[
+    {
+        "type": 0,
+        "content": "113",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-02T18:40:44.208000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345828187623395461",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "586587551079464960",
+            "username": "_inefarious_",
+            "avatar": "4a15af7834c4cd7db6a1cd703680c714",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "_iNefarious_",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "112",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-02T18:24:31.306000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345824106976641185",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "211991784795013120",
+            "username": "rancher",
+            "avatar": "0880adafc36b35ff6d59f6ae19ce1087",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Rancher",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "111",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-02T18:11:12.312000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345820755753177239",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "269606828596264960",
+            "username": "biggy8662",
+            "avatar": "77c0e3b9d3bb93ab7c021f6f721c8d8f",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Biggy",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "110",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-02T14:59:01.494000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345772391997116507",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "586587551079464960",
+            "username": "_inefarious_",
+            "avatar": "4a15af7834c4cd7db6a1cd703680c714",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "_iNefarious_",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "109",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-02T14:57:04.996000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345771903368953938",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "717489149040525332",
+            "username": "vorstacks",
+            "avatar": "ae22e106ec4868a0243148938e848e78",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Khaosmar",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "108",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-02T14:51:29.738000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345770497195118602",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "586587551079464960",
+            "username": "_inefarious_",
+            "avatar": "4a15af7834c4cd7db6a1cd703680c714",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "_iNefarious_",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "107",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-02T13:53:12.222000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345755827549638750",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "670068129178583051",
+            "username": ".ekosama",
+            "avatar": "8ea5c421c2ff320bd9bf18a00fbb3c7a",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Tervis Scoot",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "106",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-02T12:14:13.803000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345730920014938163",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "720340759655612428",
+            "username": "kageyayuu",
+            "avatar": null,
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": null,
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "105",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-02T08:15:51.786000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345670933007962192",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "589862572195315749",
+            "username": "vertuha4614",
+            "avatar": "3d99d3d2e10774c60ab0310e62492f10",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Vertuha",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "104",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-02T05:06:04.898000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345623172938207242",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "211991784795013120",
+            "username": "rancher",
+            "avatar": "0880adafc36b35ff6d59f6ae19ce1087",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Rancher",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "103",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-02T03:55:03.613000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345605299813486653",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "670068129178583051",
+            "username": ".ekosama",
+            "avatar": "8ea5c421c2ff320bd9bf18a00fbb3c7a",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Tervis Scoot",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "102",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-02T03:40:34.404000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345601654086701106",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "444978230907240471",
+            "username": "valentink.",
+            "avatar": "42bb06db33c2db583c809fc42046d462",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Valentin K",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "101",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-02T02:40:40.487000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345586580105990295",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "586587551079464960",
+            "username": "_inefarious_",
+            "avatar": "4a15af7834c4cd7db6a1cd703680c714",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "_iNefarious_",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "100",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-02T01:44:26.346000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345572427933024357",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "1041429098792243342",
+            "username": "bomfers",
+            "avatar": "40c2f23623aaaefe450d5165fbbfb5d9",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "bomf",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83d\udcaf"
+                },
+                "count": 2,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 2
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "99",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-02T01:44:21.150000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345572406139289662",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "586587551079464960",
+            "username": "_inefarious_",
+            "avatar": "4a15af7834c4cd7db6a1cd703680c714",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "_iNefarious_",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "98",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-02T01:22:17.211000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345566853136908348",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "670068129178583051",
+            "username": ".ekosama",
+            "avatar": "8ea5c421c2ff320bd9bf18a00fbb3c7a",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Tervis Scoot",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "97",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-02T01:15:23.046000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345565116002992169",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "586587551079464960",
+            "username": "_inefarious_",
+            "avatar": "4a15af7834c4cd7db6a1cd703680c714",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "_iNefarious_",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "96",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-02T00:55:22.089000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345560078823985213",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "269606828596264960",
+            "username": "biggy8662",
+            "avatar": "77c0e3b9d3bb93ab7c021f6f721c8d8f",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Biggy",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "95",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-02T00:33:05.031000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345554470796267644",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "1041429098792243342",
+            "username": "bomfers",
+            "avatar": "40c2f23623aaaefe450d5165fbbfb5d9",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "bomf",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "94",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-02T00:30:56.237000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345553930595074160",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "670068129178583051",
+            "username": ".ekosama",
+            "avatar": "8ea5c421c2ff320bd9bf18a00fbb3c7a",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Tervis Scoot",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "93",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T20:18:54.421000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345490505102004286",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "586587551079464960",
+            "username": "_inefarious_",
+            "avatar": "4a15af7834c4cd7db6a1cd703680c714",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "_iNefarious_",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "92",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T20:14:13.432000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345489326548717660",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "1041429098792243342",
+            "username": "bomfers",
+            "avatar": "40c2f23623aaaefe450d5165fbbfb5d9",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "bomf",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "91",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T19:49:23.395000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345483076880433243",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "586587551079464960",
+            "username": "_inefarious_",
+            "avatar": "4a15af7834c4cd7db6a1cd703680c714",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "_iNefarious_",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "90",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T19:48:11.841000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345482776761208874",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "589862572195315749",
+            "username": "vertuha4614",
+            "avatar": "3d99d3d2e10774c60ab0310e62492f10",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Vertuha",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "89",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T19:23:08.722000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345476472223301652",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "586587551079464960",
+            "username": "_inefarious_",
+            "avatar": "4a15af7834c4cd7db6a1cd703680c714",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "_iNefarious_",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "88",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T19:23:02.170000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345476444742222007",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "444978230907240471",
+            "username": "valentink.",
+            "avatar": "42bb06db33c2db583c809fc42046d462",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Valentin K",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "87",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T19:03:30.851000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345471531873992755",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "586587551079464960",
+            "username": "_inefarious_",
+            "avatar": "4a15af7834c4cd7db6a1cd703680c714",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "_iNefarious_",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "86",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T18:55:05.158000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345469410843820163",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "670068129178583051",
+            "username": ".ekosama",
+            "avatar": "8ea5c421c2ff320bd9bf18a00fbb3c7a",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Tervis Scoot",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "85",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T17:53:33.591000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345453927289589862",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "586587551079464960",
+            "username": "_inefarious_",
+            "avatar": "4a15af7834c4cd7db6a1cd703680c714",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "_iNefarious_",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "84",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T17:48:55.318000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345452760128028742",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "589862572195315749",
+            "username": "vertuha4614",
+            "avatar": "3d99d3d2e10774c60ab0310e62492f10",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Vertuha",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "83",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T17:37:30.522000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345449887885688985",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "720340759655612428",
+            "username": "kageyayuu",
+            "avatar": null,
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": null,
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "82",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T17:36:51.152000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345449722755813510",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "586587551079464960",
+            "username": "_inefarious_",
+            "avatar": "4a15af7834c4cd7db6a1cd703680c714",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "_iNefarious_",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "81",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T17:20:21.226000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345445570705100871",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "589862572195315749",
+            "username": "vertuha4614",
+            "avatar": "3d99d3d2e10774c60ab0310e62492f10",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Vertuha",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "80",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T17:10:43.787000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345443148750393498",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "586587551079464960",
+            "username": "_inefarious_",
+            "avatar": "4a15af7834c4cd7db6a1cd703680c714",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "_iNefarious_",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "79",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T17:10:21.358000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345443054676611134",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "589862572195315749",
+            "username": "vertuha4614",
+            "avatar": "3d99d3d2e10774c60ab0310e62492f10",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Vertuha",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "78",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T17:07:47.620000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345442409852702791",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "586587551079464960",
+            "username": "_inefarious_",
+            "avatar": "4a15af7834c4cd7db6a1cd703680c714",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "_iNefarious_",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "77",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T17:07:17.681000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345442284279169096",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "697737612731088956",
+            "username": "matrixco",
+            "avatar": "56ed63f22019b0f7b9a667762abb7c4e",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Matrixco \ud83c\uddfa\ud83c\udde6",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "76",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T17:06:14.393000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345442018830057534",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "670068129178583051",
+            "username": ".ekosama",
+            "avatar": "8ea5c421c2ff320bd9bf18a00fbb3c7a",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Tervis Scoot",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "75",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T17:00:16.179000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345440516371775528",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "586587551079464960",
+            "username": "_inefarious_",
+            "avatar": "4a15af7834c4cd7db6a1cd703680c714",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "_iNefarious_",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "74 update released",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T17:00:01.111000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345440453172006935",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "1041429098792243342",
+            "username": "bomfers",
+            "avatar": "40c2f23623aaaefe450d5165fbbfb5d9",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "bomf",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 19,
+        "content": "this made me panic for a second cause I thought I had to count down xDD",
+        "mentions": [
+            {
+                "id": "589862572195315749",
+                "username": "vertuha4614",
+                "avatar": "3d99d3d2e10774c60ab0310e62492f10",
+                "discriminator": "0",
+                "public_flags": 0,
+                "flags": 0,
+                "banner": null,
+                "accent_color": null,
+                "global_name": "Vertuha",
+                "avatar_decoration_data": null,
+                "banner_color": null,
+                "clan": null,
+                "primary_guild": null
+            }
+        ],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T16:58:54.293000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345440172916998164",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "586587551079464960",
+            "username": "_inefarious_",
+            "avatar": "4a15af7834c4cd7db6a1cd703680c714",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "_iNefarious_",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "message_reference": {
+            "type": 0,
+            "channel_id": "1073663011933397002",
+            "message_id": "1345440036950249602",
+            "guild_id": "896716443880656936"
+        },
+        "position": 0,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83d\ude02"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ],
+        "referenced_message": {
+            "type": 0,
+            "content": "72 seconds before update",
+            "mentions": [],
+            "mention_roles": [],
+            "attachments": [],
+            "embeds": [],
+            "timestamp": "2025-03-01T16:58:21.876000+00:00",
+            "edited_timestamp": null,
+            "flags": 0,
+            "components": [],
+            "id": "1345440036950249602",
+            "channel_id": "1073663011933397002",
+            "author": {
+                "id": "589862572195315749",
+                "username": "vertuha4614",
+                "avatar": "3d99d3d2e10774c60ab0310e62492f10",
+                "discriminator": "0",
+                "public_flags": 0,
+                "flags": 0,
+                "banner": null,
+                "accent_color": null,
+                "global_name": "Vertuha",
+                "avatar_decoration_data": null,
+                "banner_color": null,
+                "clan": null,
+                "primary_guild": null
+            },
+            "pinned": false,
+            "mention_everyone": false,
+            "tts": false
+        }
+    },
+    {
+        "type": 0,
+        "content": "73",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T16:58:31.855000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345440078805340231",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "586587551079464960",
+            "username": "_inefarious_",
+            "avatar": "4a15af7834c4cd7db6a1cd703680c714",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "_iNefarious_",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "72 seconds before update",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T16:58:21.876000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345440036950249602",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "589862572195315749",
+            "username": "vertuha4614",
+            "avatar": "3d99d3d2e10774c60ab0310e62492f10",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Vertuha",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "71",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T16:47:19.351000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345437258119123046",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "586587551079464960",
+            "username": "_inefarious_",
+            "avatar": "4a15af7834c4cd7db6a1cd703680c714",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "_iNefarious_",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "70",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T16:45:37.391000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345436830467752000",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "670068129178583051",
+            "username": ".ekosama",
+            "avatar": "8ea5c421c2ff320bd9bf18a00fbb3c7a",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Tervis Scoot",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "69 \ud83d\ude0f",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T16:44:26.199000+00:00",
+        "edited_timestamp": "2025-03-01T16:44:47.590000+00:00",
+        "flags": 0,
+        "components": [],
+        "id": "1345436531866996827",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "586587551079464960",
+            "username": "_inefarious_",
+            "avatar": "4a15af7834c4cd7db6a1cd703680c714",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "_iNefarious_",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "68",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T16:42:10.868000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345435964247638019",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "589862572195315749",
+            "username": "vertuha4614",
+            "avatar": "3d99d3d2e10774c60ab0310e62492f10",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Vertuha",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "67",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T16:30:29.044000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345433020584300665",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "697737612731088956",
+            "username": "matrixco",
+            "avatar": "56ed63f22019b0f7b9a667762abb7c4e",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Matrixco \ud83c\uddfa\ud83c\udde6",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "66",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T16:25:30.048000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345431766504308757",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "720340759655612428",
+            "username": "kageyayuu",
+            "avatar": null,
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": null,
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "65",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T16:04:54.819000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345426585578377289",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "697737612731088956",
+            "username": "matrixco",
+            "avatar": "56ed63f22019b0f7b9a667762abb7c4e",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Matrixco \ud83c\uddfa\ud83c\udde6",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "64",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T16:03:53.063000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345426326554804225",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "1041429098792243342",
+            "username": "bomfers",
+            "avatar": "40c2f23623aaaefe450d5165fbbfb5d9",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "bomf",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "63",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T16:03:03.509000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345426118710394941",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "720340759655612428",
+            "username": "kageyayuu",
+            "avatar": null,
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": null,
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "62",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T16:02:14.987000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345425915194380469",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "670068129178583051",
+            "username": ".ekosama",
+            "avatar": "8ea5c421c2ff320bd9bf18a00fbb3c7a",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Tervis Scoot",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "61",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T15:53:09.507000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345423627285299240",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "586587551079464960",
+            "username": "_inefarious_",
+            "avatar": "4a15af7834c4cd7db6a1cd703680c714",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "_iNefarious_",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "60",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T15:51:14.546000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345423145103790194",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "697737612731088956",
+            "username": "matrixco",
+            "avatar": "56ed63f22019b0f7b9a667762abb7c4e",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Matrixco \ud83c\uddfa\ud83c\udde6",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "59",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T15:50:58.616000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345423078288523295",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "1041429098792243342",
+            "username": "bomfers",
+            "avatar": "40c2f23623aaaefe450d5165fbbfb5d9",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "bomf",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "58",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T15:45:50.378000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345421785444651058",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "589862572195315749",
+            "username": "vertuha4614",
+            "avatar": "3d99d3d2e10774c60ab0310e62492f10",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Vertuha",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "57",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T14:15:28.348000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345399043802791946",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "586587551079464960",
+            "username": "_inefarious_",
+            "avatar": "4a15af7834c4cd7db6a1cd703680c714",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "_iNefarious_",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "56",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T14:10:46.624000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345397862166429777",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "670068129178583051",
+            "username": ".ekosama",
+            "avatar": "8ea5c421c2ff320bd9bf18a00fbb3c7a",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Tervis Scoot",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "55",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T14:09:56.840000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345397653357199421",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "546713857943404546",
+            "username": "roman_ni",
+            "avatar": "4e279150d1115d4af4c0009923fd0793",
+            "discriminator": "0",
+            "public_flags": 64,
+            "flags": 64,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "\u0420\u043e\u043c\u0430\u043d",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "54",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T14:09:45.422000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345397605466898552",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "670068129178583051",
+            "username": ".ekosama",
+            "avatar": "8ea5c421c2ff320bd9bf18a00fbb3c7a",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Tervis Scoot",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "53",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T13:51:49.141000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345393091217195058",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "586587551079464960",
+            "username": "_inefarious_",
+            "avatar": "4a15af7834c4cd7db6a1cd703680c714",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "_iNefarious_",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "52",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T13:44:19.145000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345391203797172254",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "720340759655612428",
+            "username": "kageyayuu",
+            "avatar": null,
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": null,
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "51",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T13:38:17.200000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345389685689680042",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "670068129178583051",
+            "username": ".ekosama",
+            "avatar": "8ea5c421c2ff320bd9bf18a00fbb3c7a",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Tervis Scoot",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "50",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T13:30:58.336000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345387844960780288",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "697737612731088956",
+            "username": "matrixco",
+            "avatar": "56ed63f22019b0f7b9a667762abb7c4e",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Matrixco \ud83c\uddfa\ud83c\udde6",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "49",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T13:29:06.952000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345387377782427751",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "670068129178583051",
+            "username": ".ekosama",
+            "avatar": "8ea5c421c2ff320bd9bf18a00fbb3c7a",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Tervis Scoot",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "48",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T13:25:14.581000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345386403147812915",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "586587551079464960",
+            "username": "_inefarious_",
+            "avatar": "4a15af7834c4cd7db6a1cd703680c714",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "_iNefarious_",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "47",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T13:24:09.493000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345386130148818944",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "673085878104621068",
+            "username": "supertobias77",
+            "avatar": "5faf6eec991c0ab5bcadafe2043a9895",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Supertobias77",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "46",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T13:14:37.492000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345383731002605689",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "586587551079464960",
+            "username": "_inefarious_",
+            "avatar": "4a15af7834c4cd7db6a1cd703680c714",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "_iNefarious_",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "45",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T13:13:50.247000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345383532842844281",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "1041429098792243342",
+            "username": "bomfers",
+            "avatar": "40c2f23623aaaefe450d5165fbbfb5d9",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "bomf",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "44",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T13:06:16.912000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345381631418044517",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "670068129178583051",
+            "username": ".ekosama",
+            "avatar": "8ea5c421c2ff320bd9bf18a00fbb3c7a",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Tervis Scoot",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "43",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T13:02:05.163000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345380575506206800",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "586587551079464960",
+            "username": "_inefarious_",
+            "avatar": "4a15af7834c4cd7db6a1cd703680c714",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "_iNefarious_",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "42",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T12:06:29.458000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345366584545513502",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "589862572195315749",
+            "username": "vertuha4614",
+            "avatar": "3d99d3d2e10774c60ab0310e62492f10",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Vertuha",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "41",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T11:05:53.114000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345351332613324902",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "720340759655612428",
+            "username": "kageyayuu",
+            "avatar": null,
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": null,
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "40",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T10:15:43.169000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345338707988844585",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "589862572195315749",
+            "username": "vertuha4614",
+            "avatar": "3d99d3d2e10774c60ab0310e62492f10",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Vertuha",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "39",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T09:59:35.407000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345334648900947980",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "720340759655612428",
+            "username": "kageyayuu",
+            "avatar": null,
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": null,
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "38",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T09:54:15.754000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345333308179091586",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "697737612731088956",
+            "username": "matrixco",
+            "avatar": "56ed63f22019b0f7b9a667762abb7c4e",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Matrixco \ud83c\uddfa\ud83c\udde6",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "37",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T09:30:52.591000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345327422886903809",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "589862572195315749",
+            "username": "vertuha4614",
+            "avatar": "3d99d3d2e10774c60ab0310e62492f10",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Vertuha",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "36",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T08:48:33.153000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345316771711811628",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "478933290892525569",
+            "username": "growegaming",
+            "avatar": "24b3cca6a5d79c13d35c024e7710e53b",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "G.Rowe",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "35",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T06:05:14.325000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345275672448335943",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "697737612731088956",
+            "username": "matrixco",
+            "avatar": "56ed63f22019b0f7b9a667762abb7c4e",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Matrixco \ud83c\uddfa\ud83c\udde6",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "34",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T05:49:17.302000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345271658403074098",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "269606828596264960",
+            "username": "biggy8662",
+            "avatar": "77c0e3b9d3bb93ab7c021f6f721c8d8f",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Biggy",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "33",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T04:37:23.354000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345253564393717802",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "670068129178583051",
+            "username": ".ekosama",
+            "avatar": "8ea5c421c2ff320bd9bf18a00fbb3c7a",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Tervis Scoot",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "32",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T04:27:29.611000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345251074054815785",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "264561526759882756",
+            "username": ".kurav",
+            "avatar": null,
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "ThatGuyMatt",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "31",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-03-01T00:18:42.438000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345188464953528424",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "269606828596264960",
+            "username": "biggy8662",
+            "avatar": "77c0e3b9d3bb93ab7c021f6f721c8d8f",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Biggy",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "30",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-02-28T23:37:05.103000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345177990371348551",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "586587551079464960",
+            "username": "_inefarious_",
+            "avatar": "4a15af7834c4cd7db6a1cd703680c714",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "_iNefarious_",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "29",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-02-28T22:58:46.244000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345168348257849469",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "269606828596264960",
+            "username": "biggy8662",
+            "avatar": "77c0e3b9d3bb93ab7c021f6f721c8d8f",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Biggy",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "28",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-02-28T22:00:37.532000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345153715539279892",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "586587551079464960",
+            "username": "_inefarious_",
+            "avatar": "4a15af7834c4cd7db6a1cd703680c714",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "_iNefarious_",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "27",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-02-28T20:54:52.223000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345137167713964072",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "342346767616049152",
+            "username": "alexd250",
+            "avatar": "cf64c034d382c1a372e2985e704bd64b",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Alex250",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "26",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-02-28T20:28:02.306000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345130415232647202",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "586587551079464960",
+            "username": "_inefarious_",
+            "avatar": "4a15af7834c4cd7db6a1cd703680c714",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "_iNefarious_",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "25 -dramatic sounds-",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-02-28T19:50:41.522000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345121016703094835",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "720340759655612428",
+            "username": "kageyayuu",
+            "avatar": null,
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": null,
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83d\ude2d"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "But what if i would respond with",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-02-28T19:50:31.052000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345120972788990065",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "720340759655612428",
+            "username": "kageyayuu",
+            "avatar": null,
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": null,
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false
+    },
+    {
+        "type": 0,
+        "content": "24",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-02-28T19:23:48.223000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345114250036772927",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "589862572195315749",
+            "username": "vertuha4614",
+            "avatar": "3d99d3d2e10774c60ab0310e62492f10",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Vertuha",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "23",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-02-28T17:51:53.567000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345091119892926464",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "1041429098792243342",
+            "username": "bomfers",
+            "avatar": "40c2f23623aaaefe450d5165fbbfb5d9",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "bomf",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "22",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-02-28T17:00:03.398000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345078074898645023",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "720340759655612428",
+            "username": "kageyayuu",
+            "avatar": null,
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": null,
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "21",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-02-28T16:08:55.894000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345065208854351984",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "670068129178583051",
+            "username": ".ekosama",
+            "avatar": "8ea5c421c2ff320bd9bf18a00fbb3c7a",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Tervis Scoot",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "20 ^^",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-02-28T15:27:33.398000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345054796511449248",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "720340759655612428",
+            "username": "kageyayuu",
+            "avatar": null,
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": null,
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "19",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-02-28T14:58:00.897000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345047362103546037",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "589862572195315749",
+            "username": "vertuha4614",
+            "avatar": "3d99d3d2e10774c60ab0310e62492f10",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "Vertuha",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "18 \ud83e\udd2b",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-02-28T13:33:00.090000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345025967768473731",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "720340759655612428",
+            "username": "kageyayuu",
+            "avatar": null,
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": null,
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "17",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-02-28T12:17:18.351000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1345006918334414868",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "586587551079464960",
+            "username": "_inefarious_",
+            "avatar": "4a15af7834c4cd7db6a1cd703680c714",
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": "_iNefarious_",
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "content": "16",
+        "mentions": [],
+        "mention_roles": [],
+        "attachments": [],
+        "embeds": [],
+        "timestamp": "2025-02-28T11:29:58.479000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "id": "1344995007047667756",
+        "channel_id": "1073663011933397002",
+        "author": {
+            "id": "720340759655612428",
+            "username": "kageyayuu",
+            "avatar": null,
+            "discriminator": "0",
+            "public_flags": 0,
+            "flags": 0,
+            "banner": null,
+            "accent_color": null,
+            "global_name": null,
+            "avatar_decoration_data": null,
+            "banner_color": null,
+            "clan": null,
+            "primary_guild": null
+        },
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u2705"
+                },
+                "count": 1,
+                "count_details": {
+                    "burst": 0,
+                    "normal": 1
+                },
+                "burst_colors": [],
+                "me_burst": false,
+                "burst_me": false,
+                "me": false,
+                "burst_count": 0
+            }
+        ]
+    }
+]
